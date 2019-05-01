@@ -6,3 +6,6 @@ Jadwal Sholat merupakan aplikasi sederhana untuk menampilkan jadwal sholat berda
 * [Android Studio](http://developer.android.com/sdk/index.html "Download Android Studio")
 * [Bahasa Pemrograman Kotlin](https://kotlinlang.org/)
 
+### Screenshot
+![Tampilan 1](https://github.com/abuazzam/JadwalSholat/blob/master/screenshot/ss_01.png)
+![Tampilan 2](https://github.com/abuazzam/JadwalSholat/blob/master/screenshot/ss_02.png)
